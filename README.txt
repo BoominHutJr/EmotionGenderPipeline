@@ -1,7 +1,7 @@
 
 $$ ATTENTION: TO USE ALL THE JUPYTIER NOTEBOOK YOU NEED TO MEET TO THE REQUIRMENTS FILE
-                (The requirements file is not really accurate because there is in it libraries that are not used in the notebooks
-                and this because we forgot to use a specific python environment for this project, so we used our main python environment)
+(The requirements file is not really accurate because there is in it libraries that are not used in the notebooks
+and this because we forgot to use a specific python environment for this project, so we used our main python environment)
 
 
 #------------------------------------------------------
